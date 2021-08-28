@@ -1,0 +1,2 @@
+# Zoom-Automation
+In the Covid era when everything went online I automated my zoom application to login into my online lectures on its own. This automation was done using python. Meeting id and password was provided to the system and then it use to take care of login. Two versions of the same software were created one was app based. The second one was browser based (in case you don’t have a zoom app pre-installed in the system) which included the use of selenium.
